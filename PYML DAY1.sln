@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.168
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "PYML DAY1", "PYML DAY1.pyproj", "{F5F3AAB2-2C50-4300-8BBB-C7292741B41D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5F3AAB2-2C50-4300-8BBB-C7292741B41D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5F3AAB2-2C50-4300-8BBB-C7292741B41D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E26F82B7-346A-462A-B0A8-38F851ED64FA}
+	EndGlobalSection
+EndGlobal
